@@ -1,4 +1,4 @@
-update=07/24/16 20:43:13
+update=07/24/16 20:45:57
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,5 @@ LibName29=valves
 LibName30=libraries/mj-2135
 LibName31=libraries/mounthole
 LibName32=pcb-covox-amp-v2-rescue
+LibName33=libraries/FTDI
+LibName34=libraries/ferrite
