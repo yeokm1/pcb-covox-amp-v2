@@ -1,5 +1,5 @@
 # pcb-covox-amp-v2
-A tiny sound card based on the Covox Speech Thing design which includes an LM386 amplifier and FT245RL chip to receive data via USB. This project is a combination of my 2 earlier projects [pcb-covox-awp](https://github.com/yeokm1/pcb-covox-amp) and [pcb-usb-ft245r-parallel-adapter](https://github.com/yeokm1/pcb-usb-ft245r-parallel-adapter)
+A tiny sound card based on the Covox Speech Thing design which includes an LM386 amplifier and FT245RL chip to receive data via USB. This project is a combination of my 2 earlier projects [pcb-covox-amp](https://github.com/yeokm1/pcb-covox-amp) and [pcb-usb-ft245r-parallel-adapter](https://github.com/yeokm1/pcb-usb-ft245r-parallel-adapter)
 
 ##PCB Design software and addons used
 
