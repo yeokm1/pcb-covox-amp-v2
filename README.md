@@ -6,7 +6,7 @@ A tiny sound card based on the Covox Speech Thing design which includes an LM386
 1. Kicad 4.0.2 or later
 
 ##Images
-Not available yet
+![Screen](images/front.jpg)
 
 ##Schematic drawings
 
