@@ -15,7 +15,7 @@ A tiny sound card based on the Covox Speech Thing design which includes an LM386
 ![Screen](images/schematic.png)
 
 ##Parts required
-Use Libreoffice to open [pcb-covox-amp-v2-bom.ods](pcb-covox-amp-bom-v2.ods)
+Use Libreoffice to open [pcb-covox-amp-v2-bom.ods](pcb-covox-amp-v2-bom.ods)
 
 ##References
 1. [Hardware implementation references](https://blog.frantovo.cz/c/307/DAC%20%28zvukov%C3%A1%20karta%29%20pro%20LPT%20port%20a.k.a.%20Covox)
